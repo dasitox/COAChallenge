@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "COAChallenge", "COAChallenge\COAChallenge.csproj", "{54B225FD-4DF7-4CEF-8B0A-8DD62EFA0169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COATesting", "COATesting\COATesting.csproj", "{35A84065-ED89-4042-8A7E-73AE36275A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B225FD-4DF7-4CEF-8B0A-8DD62EFA0169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B225FD-4DF7-4CEF-8B0A-8DD62EFA0169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B225FD-4DF7-4CEF-8B0A-8DD62EFA0169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B225FD-4DF7-4CEF-8B0A-8DD62EFA0169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A84065-ED89-4042-8A7E-73AE36275A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A84065-ED89-4042-8A7E-73AE36275A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A84065-ED89-4042-8A7E-73AE36275A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A84065-ED89-4042-8A7E-73AE36275A14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00049C5D-A1EF-4BB0-97FF-BB9A0AEFF670}
+	EndGlobalSection
+EndGlobal
